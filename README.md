@@ -8,7 +8,7 @@ They are incompatible with Easy Anti-Cheat and require [BepInEx](https://github.
 - MuteTraderAnnouncements *(Mute annoying speaker announcements)*
 
 # How to install?
-1. Download [BepInEx v5.4.8](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.8) (latest version known to work with 7D2D)
+1. Download [BepInEx v5.4.21](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21) (latest version known to work with 7D2D)
 2. Extract it into the game root folder (the one with both 7DaysToDie.exe and UnityPlayer.dll inside)
 3. Generate BepInEx config by launching the game
 4. Download and move selected patches (`.dll` files) into `BepInEx\plugins` folder
